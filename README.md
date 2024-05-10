@@ -37,9 +37,8 @@ Participa en nuestras discusiones tecnológicas de la comunidad: https://github.
 
 ¡Unamos fuerzas para construir una comunidad de código abierto de vanguardia en Ciudad de Guatemala!
 
-**Síguenos en las redes sociales:**
-* [https://www.instagram.com/gittogethergt/](https://www.instagram.com/gittogethergt/)  
-* [https://www.twitter.com/gittogethergt/](https://www.twitter.com/gittogethergt/)
+**Síguenos en las redes sociales:** 
+* [https://www.twitter.com/githubcommunity/](https://www.twitter.com/githubcommunity/)
 
 **Participa en nuestras discusiones tecnológicas de la comunidad:** https://github.com/gittogethers/ciudaddeguatemala/discussions/
 
