@@ -77,7 +77,7 @@ Conoce a tus líderes
       <p align="center">
         <br>
         <a href="https://www.instagram.com/kevinvillatoro/">
-          <img src="https://[avatars.githubusercontent.com/u/987654321?v=4" height="120" alt="Shockerex">
+          <img src="https://avatars.githubusercontent.com/u/987654321?v=4" height="120" alt="Shockerex">
         </a>
       </p>
       <p align="center">
